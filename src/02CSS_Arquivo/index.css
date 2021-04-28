@@ -1,0 +1,12 @@
+.cabecalho{
+    background-color: aqua;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.titulo{
+    font-size: 25px;
+    font-style: italic;
+    color: blue;
+}
+
